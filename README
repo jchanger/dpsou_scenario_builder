@@ -1,0 +1,26 @@
+# README #
+
+This README is under development...
+
+### What is this repository for? ###
+
+* Version: 1.1
+* TBD 
+
+### How do I get set up? ###
+
+* TBD 
+
+### Contribution guidelines ###
+
+* TBD 
+
+### Who do I talk to? ###
+
+* Repo owner or admin: Jesus Sanchez Garcia
+
+### Acknowledgements ###
+This application uses a 3rd party software tool called BonnMotion
+All information regarding BonnMotion can be found at: https://sys.cs.uos.de/bonnmotion/
+And which was published at:
+N. Aschenbruck, R. Ernst, E. Gerhards-Padilla, and M. Schwamborn: "BonnMotion - a Mobility Scenario Generation and Analysis Tool," in Proc. of the 3rd International ICST Conference on Simulation Tools and Techniques (SIMUTools '10), Torremolinos, Malaga, Spain, 2010.

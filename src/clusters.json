@@ -1,0 +1,14 @@
+{
+	"clusters": [
+		{"id":"1", "name": "cluster_1", "x_origin": "200", "y_origin": "200", "x_width": "1000", "y_width": "700", "nodes": "100", "model": "RandomWaypoint", "initial_offset": "3600"},
+		{"id":"2", "name": "cluster_2", "x_origin": "2000", "y_origin": "400", "x_width": "700", "y_width": "500", "nodes": "60", "model": "RandomWaypoint", "initial_offset": "3600"},
+		{"id":"3", "name": "cluster_3", "x_origin": "2500", "y_origin": "2500", "x_width": "500", "y_width": "1000", "nodes": "40", "model": "RandomWaypoint", "initial_offset": "3600"},
+		{"id":"4", "name": "cluster_4", "x_origin": "50", "y_origin": "1500", "x_width": "500", "y_width": "1000", "nodes": "60", "model": "RandomWaypoint", "initial_offset": "3600"},
+		{"id":"5", "name": "cluster_5", "x_origin": "300", "y_origin": "3500", "x_width": "800", "y_width": "1000", "nodes": "80", "model": "RandomWaypoint", "initial_offset": "3600"},
+		{"id":"6", "name": "cluster_6", "x_origin": "1500", "y_origin": "4000", "x_width": "1500", "y_width": "900", "nodes": "150", "model": "RandomWaypoint", "initial_offset": "3600"},
+		{"id":"7", "name": "cluster_7", "x_origin": "3500", "y_origin": "4300", "x_width": "1000", "y_width": "700", "nodes": "100", "model": "RandomWaypoint", "initial_offset": "3600"},
+		{"id":"8", "name": "cluster_8", "x_origin": "3000", "y_origin": "50", "x_width": "800", "y_width": "300", "nodes": "60", "model": "RandomWaypoint", "initial_offset": "3600"},
+		{"id":"9", "name": "cluster_9", "x_origin": "4000", "y_origin": "600", "x_width": "700", "y_width": "1500", "nodes": "100", "model": "RandomWaypoint", "initial_offset": "3600"},
+		{"id":"10" ,"name": "cluster_10", "x_origin": "3500", "y_origin": "3000", "x_width": "900", "y_width": "300", "nodes": "40", "model": "RandomWaypoint", "initial_offset": "3600"}
+	]
+}

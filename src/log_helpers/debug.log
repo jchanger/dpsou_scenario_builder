@@ -1,0 +1,2 @@
+2018-06-14 20:28:02,044 - __main__ - INFO - Calling launcher remote
+2018-06-14 20:28:02,044 - launchers.launcher_two - INFO - Setting up listen_requests socket for receiving scenario generation queries
